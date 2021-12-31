@@ -38,7 +38,7 @@ div img{
 }
 
 .third{
-    float:left;
+    float:right;
     width: 33%;
     justify-items: center;
     color: black;
@@ -59,7 +59,7 @@ div img{
 }
 
 .sixth{
-    float:left;
+    float:right;
     width: 33%;
     justify-items: center;
     color: black;
@@ -80,7 +80,7 @@ div img{
 }
 
 .nineth{
-    float:left;
+    float:right;
     width: 33%;
     justify-items: center;
     color: black;
@@ -101,7 +101,7 @@ div img{
 }
 
 .twelth{
-    float:left;
+    float:right;
     width: 33%;
     justify-items: center;
     color: black;
