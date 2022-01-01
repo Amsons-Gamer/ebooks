@@ -38,9 +38,8 @@ div img{
 }
 
 .third{
-   display: grid;
+    display: grid;
     border-radius: 50%;
-    
     color: black;
 }
 
@@ -96,5 +95,4 @@ div img{
 	display: grid;
     border-radius: 50%;
     color: black;
-    
 }
