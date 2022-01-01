@@ -27,9 +27,6 @@ div img{
 
 a{
     border-radius: 50%;
-}
-
-a{
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -41,70 +38,82 @@ a{
     display: grid;
     border-radius: 50%;
     color: black;
+    justify-content: space-around;
 }
 
 .second{
     display: grid;
     border-radius: 50%;
     color: black;
+    justify-content: space-around;
 }
 
 .third{
     display: grid;
     border-radius: 50%;
     color: black;
+    justify-content: space-around;
 }
 
 .fourth{
     display: grid;
     border-radius: 50%;
     color: black;
+    justify-content: space-around;
 }
 
 .fifth{
     display: grid;
     border-radius: 50%;
     color: black;
+    justify-content: space-around;
 }
 
 .sixth{
 	display: grid;
     border-radius: 50%;
     color: black;
+    justify-content: space-around;
 }
 
 .seventh{
     display: grid;
     border-radius: 50%;
     color: black;
+    justify-content: space-around;
 }
 
 .eight{
     display: grid;
     border-radius: 50%;
     color: black;
+    justify-content: space-around;
 }
 
 .nineth{
 	display: grid;
     border-radius: 50%;
     color: black;
+    justify-content: space-around;
 }
 
 .tenth{
     display: grid;
     border-radius: 50%;
     color: black;
+    justify-content: space-around;
 }
 
 .eleventh{
     display: grid;
     border-radius: 50%;
     color: black;
+    justify-content: space-around;
 }
 
 .twelth{
 	display: grid;
     border-radius: 50%;
     color: black;
+    justify-content: space-around;
 }
