@@ -28,15 +28,12 @@ div img{
 .first{
     display: grid;
     border-radius: 50%;
-    
-    
     color: black;
 }
 
 .second{
     display: grid;
     border-radius: 50%;
-    
     color: black;
 }
 
@@ -50,63 +47,54 @@ div img{
 .fourth{
     display: grid;
     border-radius: 50%;
-    
     color: black;
 }
 
 .fifth{
     display: grid;
     border-radius: 50%;
-    
     color: black;
 }
 
 .sixth{
 	display: grid;
     border-radius: 50%;
-    
     color: black;
 }
 
 .seventh{
     display: grid;
     border-radius: 50%;
-    
     color: black;
 }
 
 .eight{
     display: grid;
     border-radius: 50%;
-    
     color: black;
 }
 
 .nineth{
 	display: grid;
     border-radius: 50%;
-    
     color: black;
 }
 
 .tenth{
     display: grid;
     border-radius: 50%;
-    
     color: black;
 }
 
 .eleventh{
     display: grid;
     border-radius: 50%;
-    
     color: black;
 }
 
 .twelth{
 	display: grid;
     border-radius: 50%;
-    
     color: black;
     
 }
