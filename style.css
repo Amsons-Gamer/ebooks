@@ -11,9 +11,12 @@ body{
 }
 
 nav{
-    background-color:rgb(240, 59, 95);
-    font-size: 23px;
-    display: block;
+    width: fit-content;
+    background-image:  linear-gradient(to left bottom, #fbb040, #ef4136);
+    -webkit-background-clip: text;
+    background-clip: text;    /* Compatiblity */
+    -webkit-text-fill-color: transparent;
+    font-size: 30px;
 }
 
 div img{
