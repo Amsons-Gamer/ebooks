@@ -26,87 +26,87 @@ div img{
 }
 
 .first{
-    float:left ;
-    width: 33%;
-    display: block;
-    justify-items: center;
+    display: grid;
+    border-radius: 50%;
+    
+    
     color: black;
 }
 
 .second{
-    float:left;
-    width: 33%;
-    justify-items: center;
+    display: grid;
+    border-radius: 50%;
+    
     color: black;
 }
 
 .third{
-    float:right;
-    width: 33%;
-    justify-items: center;
+   display: grid;
+    border-radius: 50%;
+    
     color: black;
 }
 
 .fourth{
-    float:left;
-    width: 33%;
-    justify-items: center;
+    display: grid;
+    border-radius: 50%;
+    
     color: black;
 }
 
 .fifth{
-    float:left;
-    width: 33%;
-    justify-items: center;
+    display: grid;
+    border-radius: 50%;
+    
     color: black;
 }
 
 .sixth{
-    float:right;
-    width: 33%;
-    justify-items: center;
+	display: grid;
+    border-radius: 50%;
+    
     color: black;
 }
 
 .seventh{
-    float:left;
-    width: 33%;
-    justify-items: center;
+    display: grid;
+    border-radius: 50%;
+    
     color: black;
 }
 
 .eight{
-    float:left;
-    width: 33%;
-    justify-items: center;
+    display: grid;
+    border-radius: 50%;
+    
     color: black;
 }
 
 .nineth{
-    float:right;
-    width: 33%;
-    justify-items: center;
+	display: grid;
+    border-radius: 50%;
+    
     color: black;
 }
 
 .tenth{
-    float:left;
-    width: 33%;
-    justify-items: center;
+    display: grid;
+    border-radius: 50%;
+    
     color: black;
 }
 
 .eleventh{
-    float:left;
-    width: 33%;
-    justify-items: center;
+    display: grid;
+    border-radius: 50%;
+    
     color: black;
 }
 
 .twelth{
-    float:right;
-    width: 33%;
-    justify-items: center;
+	display: grid;
+    border-radius: 50%;
+    
     color: black;
-    display: block;
+    
 }
